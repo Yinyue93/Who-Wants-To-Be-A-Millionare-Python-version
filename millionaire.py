@@ -5,7 +5,7 @@ Answer all questions correctly to win 1,000,000 USD!
 prize = 1000000
 correct_answers = 0
 
-print('''Question 1: What's the prediominant language spoken on Aruba?
+print('''Question 1: What's the predominant language spoken on Aruba?
 
 a) Spanish
 b) Papiamento
